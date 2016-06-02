@@ -1,0 +1,152 @@
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.exe.config
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.exe
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.pdb
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.csprojResolveAssemblyReference.cache
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.zhucaidan.resources
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Properties.Resources.resources
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.csproj.GenerateResource.Cache
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.exe
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.pdb
+c:\users\shisama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.bangzhu.resources
+C:\Users\ShiSama\Documents\Visual Studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.shuoming.resources
+C:\Users\ShiSama\Documents\Visual Studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.neicungongxiang.resources
+C:\Users\ShiSama\Documents\Visual Studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.jinchengtongxinxuanze.resources
+C:\Users\ShiSama\Documents\Visual Studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.guandaotongxin.resources
+C:\Users\ShiSama\Documents\Visual Studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.xiaoxiduilie.resources
+C:\Users\ShiSama\Documents\Visual Studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Processcontrol.resources
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.BankForm.resources
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.MainForm.resources
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Form1.resources
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Form2.resources
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.exe.manifest
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.application
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.exe.manifest
+C:\Users\ShiSama\documents\visual studio 2013\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.application
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.bangzhu.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.guandaotongxin.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Processcontrol.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.jinchengtongxinxuanze.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.neicungongxiang.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.shuoming.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.xiaoxiduilie.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.MainForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.application
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\bin\Debug\biyesheji.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.application
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.jiance.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.SiSuo.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.ProcessTongbu.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\biyesheji\biyesheji\obj\Debug\biyesheji.Main_FORM.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.exe.config
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.exe
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.pdb
+C:\Users\admin\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.exe.manifest
+C:\Users\admin\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.application
+C:\Users\admin\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.exe
+C:\Users\admin\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.pdb
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.bangzhu.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Main_FORM.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.ProcessTongbu.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.guandaotongxin.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.jiance.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Form2.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Processcontrol.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.jinchengtongxinxuanze.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.neicungongxiang.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Properties.Resources.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.shuoming.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.xiaoxiduilie.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.exe.manifest
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.application
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DBMainForm.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DeadLockBimian.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DP1.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DP2.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DP3.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DPMain.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DeadLockItem.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DeadLockJiance.resources
+C:\Users\admin\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DJMainForm.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.exe.config
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.exe
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.pdb
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.exe.manifest
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.application
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.exe
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\biyesheji.pdb
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\mscorlib.dll
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\normidna.nlp
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\normnfc.nlp
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\normnfd.nlp
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\normnfkc.nlp
+C:\Users\dell\Desktop\biyesheji\biyesheji\bin\Debug\normnfkd.nlp
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.bangzhu.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DBMainForm.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DeadLockBimian.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DP1.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DP2.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DP3.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DPMain.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DeadLockItem.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Main_FORM.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.ProcessTongbu.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.guandaotongxin.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.jiance.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Form2.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Processcontrol.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.jinchengtongxinxuanze.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.neicungongxiang.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.Properties.Resources.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.shuoming.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.xiaoxiduilie.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DeadLockJiance.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.DJMainForm.resources
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.exe.manifest
+C:\Users\dell\Desktop\biyesheji\biyesheji\obj\Debug\biyesheji.application
+C:\Users\admin\Desktop\biyeshe\biyesheji\bin\Debug\biyesheji.exe.config
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.exe
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.bangzhu.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DBMainForm.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DeadLockBimian.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DP1.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DP2.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DP3.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DPMain.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DeadLockItem.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.Main_FORM.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.ProcessTongbu.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.guandaotongxin.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.jiance.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.Form2.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.Processcontrol.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.jinchengtongxinxuanze.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.neicungongxiang.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.Properties.Resources.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.shuoming.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.xiaoxiduilie.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DeadLockJiance.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.DJMainForm.resources
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.pdb
+C:\Users\admin\Desktop\biyeshe\biyesheji\bin\Debug\biyesheji.exe.manifest
+C:\Users\admin\Desktop\biyeshe\biyesheji\bin\Debug\biyesheji.application
+C:\Users\admin\Desktop\biyeshe\biyesheji\bin\Debug\biyesheji.exe
+C:\Users\admin\Desktop\biyeshe\biyesheji\bin\Debug\biyesheji.pdb
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.exe.manifest
+C:\Users\admin\Desktop\biyeshe\biyesheji\obj\Debug\biyesheji.application

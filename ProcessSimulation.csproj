@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{63435936-94B6-4941-8904-7F30843645E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProcessSimulation</RootNamespace>
+    <AssemblyName>ProcessSimulation</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\ShiSama\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>051D762573333388316619E930854626BDBC71C8</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>biyesheji_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bangzhujiemian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bangzhujiemian.Designer.cs">
+      <DependentUpon>bangzhujiemian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Bimian\DBMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Bimian\DBMainForm.designer.cs">
+      <DependentUpon>DBMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Bimian\DeadLockBimian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Bimian\DeadLockBimian.designer.cs">
+      <DependentUpon>DeadLockBimian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DP1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DP1.designer.cs">
+      <DependentUpon>DP1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DP2.designer.cs">
+      <DependentUpon>DP2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DP3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DP3.designer.cs">
+      <DependentUpon>DP3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DPMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\Deadlock Yufang\DPMain.designer.cs">
+      <DependentUpon>DPMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\DeadLockItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\DeadLockItem.Designer.cs">
+      <DependentUpon>DeadLockItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm_.Designer.cs">
+      <DependentUpon>MainForm_.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengkongzhi\Process.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengtongbu\ProcessTongbu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengtongbu\ProcessTongbu.designer.cs">
+      <DependentUpon>ProcessTongbu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengtongxin\guandaotongxin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengtongxin\guandaotongxin.Designer.cs">
+      <DependentUpon>guandaotongxin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengdiaodu\jinchengdiaodu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengdiaodu\jinchengdiaodu.designer.cs">
+      <DependentUpon>jinchengdiaodu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengdiaodu\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengdiaodu\Form2.designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengdiaodu\ReadAndWriteTXT.cs" />
+    <Compile Include="jinchengdiaodu\Schedule.cs" />
+    <Compile Include="jinchengdiaodu\UiDisplay.cs" />
+    <Compile Include="jinchengdiaodu\WorkCollection.cs" />
+    <Compile Include="jinchengdiaodu\WorkObject.cs" />
+    <Compile Include="jinchengkongzhi\Processcontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengkongzhi\Processcontrol.designer.cs">
+      <DependentUpon>Processcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengtongxin\jinchengtongxinxuanze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengtongxin\jinchengtongxinxuanze.Designer.cs">
+      <DependentUpon>jinchengtongxinxuanze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengtongxin\neicungongxiang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengtongxin\neicungongxiang.Designer.cs">
+      <DependentUpon>neicungongxiang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PushBoat.cs" />
+    <Compile Include="shuoming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shuoming.Designer.cs">
+      <DependentUpon>shuoming.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jinchengtongxin\xiaoxiduilie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jinchengtongxin\xiaoxiduilie.Designer.cs">
+      <DependentUpon>xiaoxiduilie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Bimian\BankArithmetic.cs" />
+    <Compile Include="DeadLock\DeadLock Jiance\DeadLockJiance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Jiance\DeadLockJiance.designer.cs">
+      <DependentUpon>DeadLockJiance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Jiance\DJMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadLock\DeadLock Jiance\DJMainForm.designer.cs">
+      <DependentUpon>DJMainForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bangzhujiemian.resx">
+      <DependentUpon>bangzhujiemian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\DeadLock Bimian\DBMainForm.resx">
+      <DependentUpon>DBMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\DeadLock Bimian\DeadLockBimian.resx">
+      <DependentUpon>DeadLockBimian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\Deadlock Yufang\DP1.resx">
+      <DependentUpon>DP1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\Deadlock Yufang\DP2.resx">
+      <DependentUpon>DP2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\Deadlock Yufang\DP3.resx">
+      <DependentUpon>DP3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\Deadlock Yufang\DPMain.resx">
+      <DependentUpon>DPMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\DeadLockItem.resx">
+      <DependentUpon>DeadLockItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm_.resx">
+      <DependentUpon>MainForm_.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengtongbu\ProcessTongbu.resx">
+      <DependentUpon>ProcessTongbu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengtongxin\guandaotongxin.resx">
+      <DependentUpon>guandaotongxin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengdiaodu\jinchengdiaodu.resx">
+      <DependentUpon>jinchengdiaodu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengdiaodu\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengkongzhi\Processcontrol.resx">
+      <DependentUpon>Processcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengtongxin\jinchengtongxinxuanze.resx">
+      <DependentUpon>jinchengtongxinxuanze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengtongxin\neicungongxiang.resx">
+      <DependentUpon>neicungongxiang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="shuoming.resx">
+      <DependentUpon>shuoming.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jinchengtongxin\xiaoxiduilie.resx">
+      <DependentUpon>xiaoxiduilie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\DeadLock Jiance\DeadLockJiance.resx">
+      <DependentUpon>DeadLockJiance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadLock\DeadLock Jiance\DJMainForm.resx">
+      <DependentUpon>DJMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\232453D35-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23245341A-39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2324533005-13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tingzhi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
